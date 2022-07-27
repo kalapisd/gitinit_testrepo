@@ -1,0 +1,8 @@
+Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).
+A version control system records changes carried out to a file, or a set of files over time, and helps you to recall specific versions of the code later on when you need it.
+Git, as a version control system allows you to:
+- Revert the code files back to their previous state
+- Recall and revert the entire project back to its previous state
+- Compare code changes over specific durations of time
+- Find who last modified a piece of code that might be causing an issue or a problem
+- Who introduced a particular issue and when
