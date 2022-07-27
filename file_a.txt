@@ -6,3 +6,5 @@ Git, as a version control system allows you to:
 - Compare code changes over specific durations of time
 - Find who last modified a piece of code that might be causing an issue or a problem
 - Who introduced a particular issue and when
+
+if we want to ignore all txt files, .gitignore shoud contain a row like this: .txt
